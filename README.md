@@ -1,4 +1,4 @@
-<img width="1171" height="495" alt="Screenshot 2025-03-15 163052" src="https://github.com/user-attachments/assets/326da558-220f-4381-a957-14a6517ed254" />
+
 # consumer_complaint_classification
 
 
@@ -38,6 +38,20 @@ The goal is to classify consumer complaints into the following categories:
 
 ---
 
+ Screenshots
 
 
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57f0585b-6643-4a3b-aa28-5465b5a12e98" />
+
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2f697f1e-8f70-4084-96e8-8f4f1c49163e" />
+
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/aaecc240-6441-4fc0-98b9-be8f5df5d46c" />
+
+
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c1a65975-be74-4c91-be25-02d583f535a5" />
 
