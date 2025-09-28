@@ -1,3 +1,4 @@
+<img width="1171" height="495" alt="Screenshot 2025-03-15 163052" src="https://github.com/user-attachments/assets/326da558-220f-4381-a957-14a6517ed254" />
 # consumer_complaint_classification
 
 
